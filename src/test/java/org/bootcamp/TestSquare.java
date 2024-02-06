@@ -1,5 +1,6 @@
 package org.bootcamp;
 
+import org.bootcamp.day1.Square;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

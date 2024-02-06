@@ -1,12 +1,11 @@
-package org.bootcamp;
+package org.bootcamp.day1;
 
 public class Square extends Rectangle{
-    private final long side;
 
 
     public Square(long side) {
         super(side, side);
-        this.side = side;
+
     }
 
 

@@ -1,6 +1,7 @@
 package org.bootcamp;
 
 
+import org.bootcamp.day1.Rectangle;
 import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;

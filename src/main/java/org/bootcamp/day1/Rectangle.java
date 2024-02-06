@@ -1,4 +1,4 @@
-package org.bootcamp;
+package org.bootcamp.day1;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
